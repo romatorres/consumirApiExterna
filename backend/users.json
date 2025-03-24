@@ -12,5 +12,20 @@
       "email": "roma@uol.com",
       "age": 48
     }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "title": "Guitarra Fender",
+      "body": "Alder",
+      "neck": "Maple"
+    },
+    {
+      "id": 2,
+      "title": "Guitarra Ibanez",
+      "body": "Ash",
+      "neck": "Marfim"
+    }
   ]
 }
