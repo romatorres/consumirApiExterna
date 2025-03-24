@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "João",
+      "email": "joao@uol.com",
+      "age": 25
+    },
+    {
+      "id": 2,
+      "name": "Romario",
+      "email": "roma@uol.com",
+      "age": 48
+    }
+  ]
+}
