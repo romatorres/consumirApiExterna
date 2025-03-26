@@ -11,21 +11,42 @@
       "name": "Romario",
       "email": "roma@uol.com",
       "age": 48
-    }
-  ],
-
-  "products": [
-    {
-      "id": 1,
-      "title": "Guitarra Fender",
-      "body": "Alder",
-      "neck": "Maple"
     },
     {
-      "id": 2,
-      "title": "Guitarra Ibanez",
-      "body": "Ash",
-      "neck": "Marfim"
+      "id": 3,
+      "name": "Ricardo Santos",
+      "email": "ricardosantos@gmail.com",
+      "age": 52
+    },
+    {
+      "id": 4,
+      "name": "Jamile Souza",
+      "email": "jamilesouza@uol.com",
+      "age": 32
+    },
+    {
+      "id": 5,
+      "name": "Caio Adriano",
+      "email": "caioadriano@gmail.com",
+      "age": 22
+    },
+    {
+      "id": 6,
+      "name": "Matheus Moreira",
+      "email": "matheusmoreira@gmail.com",
+      "age": 42
+    },
+    {
+      "id": 7,
+      "name": "sdfdf",
+      "email": "romatorres12@gmail.com",
+      "age": 23
+    },
+    {
+      "id": 8,
+      "name": "sdsdsdsd",
+      "email": "romatorres@gmail.com",
+      "age": 45
     }
   ]
 }
